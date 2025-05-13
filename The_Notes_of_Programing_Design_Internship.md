@@ -1,9 +1,17 @@
-<style>
-    h1 { color: lightyellow; }
-    h2 { color: lightblue; }
-    h3 { color: Lavender; }
-</style>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>程序设计实习笔记</title>
+    <style>
+        h1 { color: lightyellow; }
+        h2 { color: lightblue; }
+        h3 { color: lavender; }
+    </style>
+</head>
+<body>
+    <h1>程序设计实习笔记</h1>
 # 程序设计实习笔记
 
 ## 1. 类和对象
@@ -1409,3 +1417,5 @@ int main() {
 
 
 ## 7.
+</body>
+</html>
