@@ -1,8 +1,3 @@
-<style>
-    h1 { color: lightyellow; }
-    h2 { color: lightblue; }
-    h3 { color: Lavender; }
-</style>
 
 # 程序设计实习笔记
 
